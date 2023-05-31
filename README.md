@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Wellcare**
 
-- 🌱 I’m currently learning **Vu**
+- 🌱 I’m currently learning **Vue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
