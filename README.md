@@ -25,8 +25,5 @@
 <a href="https://www.instagram.com/moer.tel/">
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.linkedin.com/in/hung-nguyen-kim-82302317b/">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
 
 | &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=hungnguyen18&label=Profile%20views&color=0e75b6&style=flat" alt="hungnguyen18" />
