@@ -1,12 +1,12 @@
 ## 🔥 Hi, I'm Hung Nguyen! &nbsp;&nbsp;
-    👋 I front-end devoloper
-    - 🔭 I’m currently working on Wellcare.
+    👋 I Front-end devoloper
+    - 🔭 I’m currently working on Orochi Network 🐍.
     - 💻 I'm currently a 4th year student at Ho Chi Minh City University of Technical Education.
     - 🤓 Majoring in information technology
 ----
-![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
+![Tech stack](https://img.shields.io/static/v1?label=&message=Techstack:&color=111&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square&link=)
-![vuejs](https://img.shields.io/static/v1?logo=vue.js&label=&message=vue.js&color=36465D&logoColor=AAA&style=flat-square&link=)
+![vue](https://img.shields.io/static/v1?logo=vue.js&label=&message=vue&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=36465D&logoColor=AAA&style=flat-square&link=)
@@ -22,8 +22,7 @@
 
 <br/>
 
-<a href="https://www.instagram.com/moer.tel/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
+📧 Email: **[hungnguyen18.dev@gmail.com](mailto:hungnguyen18.dev@gmail.com)**  
+🔗 LinkedIn: **[Hung Nguyen Kim](https://www.linkedin.com/in/hung-nguyen-kim-82302317b/)**  
 
-| &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=hungnguyen18&label=Profile%20views&color=0e75b6&style=flat" alt="hungnguyen18" />
+![Profile Views](https://komarev.com/ghpvc/?username=hungnguyen18&label=Profile%20views&color=0e75b6&style=flat)
