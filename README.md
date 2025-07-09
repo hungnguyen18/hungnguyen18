@@ -1,6 +1,5 @@
 ## 🔥 Hi, I'm Hung Nguyen! &nbsp;&nbsp;
-    👋 I Front-end devoloper
-    - 🔭 I’m currently working on Orochi Network 🐍.
+    👋 I Software Engineer
     - 💻 I'm currently a 4th year student at Ho Chi Minh City University of Technical Education.
     - 🤓 Majoring in information technology
 ----
